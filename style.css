@@ -1,0 +1,57 @@
+.columnOne {
+  width: 33%;
+  padding-bottom: 20px;
+}
+
+.columnTwo {
+  display: inline-block;
+  width: 33%;
+}
+
+.playerOne, .playerTwo {
+  color: white;
+  overflow: hidden;
+  text-align: center;
+  position: relative;
+  width: 60%;
+}
+
+.board {
+  border: solid white;
+  position: relative;
+  left: 30%;
+  width: 600px;
+  padding: 2px;
+}
+
+.board div {
+  display: inline-block;
+  position: relative;
+  background-color: black;
+  width: 150px;
+  height: 150px;
+  border: solid white 2px;
+  color: white;
+  overflow: hidden;
+  font-size: 60px;
+  text-align: center;
+}
+
+.scoreboard {
+  border: solid black 1px;
+  width: 40%;
+}
+
+button {
+  padding: 20px 70px;
+  color: salmon;
+  border: 3px;
+  outline:none;
+  position: left;
+  top: 0px;
+  transition: top 0.5s;
+}
+
+button:hover {
+  top: 5px;
+}
