@@ -14,7 +14,7 @@ This is a Tic Tac Toe game that I made for my Project Zero, as part of my Web De
 - Choose tile counters ( X / O )
 
 ## How to view app
-- Play it here: https://andybluey.github.io/
+- Play it here: https://andybluey.github.io/project-zero/
 - Clone / fork my repo: https://github.com/andybluey/project-zero
 
 ## Technology Used
